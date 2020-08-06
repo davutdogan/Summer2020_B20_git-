@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7537867f-cd77-45ad-8a96-a0ee9f355246" name="Default Changelist" comment="" />
+    <list default="true" id="7537867f-cd77-45ad-8a96-a0ee9f355246" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ReverseAString">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="utility.Main" />
       <module name="Summer2020_B20_git" />
@@ -42,8 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utility.ReverseAString" />
+      <module name="Summer2020_B20_git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -62,21 +78,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1218" height="153" key="GridCell.Tab.0.bottom" timestamp="1596671303467">
+    <state width="1218" height="152" key="GridCell.Tab.0.bottom" timestamp="1596674803938">
       <screen x="0" y="23" width="1280" height="731" />
     </state>
-    <state width="1218" height="153" key="GridCell.Tab.0.bottom/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596671303467" />
-    <state width="1218" height="153" key="GridCell.Tab.0.center" timestamp="1596671303465">
+    <state width="1218" height="152" key="GridCell.Tab.0.bottom/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596674803938" />
+    <state width="1218" height="152" key="GridCell.Tab.0.center" timestamp="1596674803935">
       <screen x="0" y="23" width="1280" height="731" />
     </state>
-    <state width="1218" height="153" key="GridCell.Tab.0.center/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596671303465" />
-    <state width="1218" height="153" key="GridCell.Tab.0.left" timestamp="1596671303463">
+    <state width="1218" height="152" key="GridCell.Tab.0.center/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596674803935" />
+    <state width="1218" height="152" key="GridCell.Tab.0.left" timestamp="1596674803934">
       <screen x="0" y="23" width="1280" height="731" />
     </state>
-    <state width="1218" height="153" key="GridCell.Tab.0.left/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596671303463" />
-    <state width="1218" height="153" key="GridCell.Tab.0.right" timestamp="1596671303466">
+    <state width="1218" height="152" key="GridCell.Tab.0.left/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596674803934" />
+    <state width="1218" height="152" key="GridCell.Tab.0.right" timestamp="1596674803936">
       <screen x="0" y="23" width="1280" height="731" />
     </state>
-    <state width="1218" height="153" key="GridCell.Tab.0.right/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596671303466" />
+    <state width="1218" height="152" key="GridCell.Tab.0.right/0.23.1280.731/-353.-1057.1920.1057@0.23.1280.731" timestamp="1596674803936" />
   </component>
 </project>
